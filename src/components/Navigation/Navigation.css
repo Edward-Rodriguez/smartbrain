@@ -1,0 +1,8 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.signOutButton {
+  font-size: 1.5rem;
+}
